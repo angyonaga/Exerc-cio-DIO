@@ -1,2 +1,2 @@
-# Exerc-cio-DIO
+# Exercício-DIO
 Criando um Wireframe de Média Fidelidade
