@@ -86,4 +86,15 @@ A One Page foi dividida da seguinte forma:
 
 - **Figma** — criação do wireframe  
 - **GitHub** — documentação e entrega
-- **Tipografia:** Source sans 3 
+- **Tipografia:** Source sans 3
+
+- ## **Imagens**
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/09f1af3e-cf3e-40da-88d0-b3a2fd2dc53a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0a7b249f-2a1d-44c0-bd07-b1618c22f665" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5777afff-3354-46ad-8570-6430c9a7af45" />
+
+## **Figma**
+https://www.figma.com/design/MyBU6NDN1jt4JFdFqCoHnm/Wireframe-de-m%C3%A9dia-fidelidade?node-id=0-1&t=eMuqQZuinA6Pt3E3-1
+
+
+
